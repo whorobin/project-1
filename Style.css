@@ -1,0 +1,50 @@
+
+.class{
+    color: chartreuse;
+   
+}
+.hot{
+    background-color: purple;
+}
+.small2{
+    color: red;
+}
+
+
+.div1{
+    background-color: lemonchiffon;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 30px 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.div2{
+    background-color: lightblue;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 30px 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+    
+}
+.small1{
+    color: seagreen;
+    height: ;
+    width: ;
+    
+}
+.ali{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.p1{
+    text-align: justify;
+    width: 50%;
+    content: 4444
+    ;
+    
+}
+
+p1
